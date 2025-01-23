@@ -192,8 +192,6 @@ return {
         "shellcheck",
         "shfmt",
         "flake8",
-        "eslint_d",
-        "pyright",
       },
     },
   },
