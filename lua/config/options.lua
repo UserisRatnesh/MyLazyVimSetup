@@ -33,3 +33,5 @@ vim.o.autoread = true
 
 vim.api.nvim_set_keymap("i", "<C-Y>", "<Plug>(emmet-expand-abbr)", { noremap = true, silent = true })
 -- vim.opt.colorcolumn = ""
+vim.opt.textwidth = 0
+vim.opt.linebreak = false
